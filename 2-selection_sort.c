@@ -17,7 +17,7 @@ void int_swap(int *current, int *next)
 }
 
 /**
- * selection_sort - Sorting the array of algorithms. 
+ * selection_sort - Sorting the array of algorithms.
  * @array: An array of integers.
  * @size: The size of the array.
  * Return: Always 0
